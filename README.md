@@ -13,7 +13,11 @@
 	Off
 		NextState -> Low
 		PreviousState -> High
-		
+
+2 Cord
+	Green -> Pull in forward direction
+	Red -> Pull in reverse direction
+			
 
 Fan
 	Current State is Off

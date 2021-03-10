@@ -1,4 +1,6 @@
-package com.cgi.interview;
+package com.cgi.model.impl;
+
+import com.cgi.model.State;
 
 /**
  * This class is use to provide next and previous state when Fan is Off

@@ -1,4 +1,4 @@
-package com.cgi.interview;
+package com.cgi.model;
 
 /**
  * Interface to handle previous and next fan speed status 
